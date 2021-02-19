@@ -2,7 +2,6 @@ import java.util.Arrays;
 import java.util.Collections;
 
 enum Suit {SPADES, HEARTS, DIAMONDS, CLUBS}
-
 enum Rank {TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING, ACE}
 
 public class AssignmentNo4 {
